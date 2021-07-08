@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/blender-webpage/static/css/main.bd76d257.chunk.css",
+    "main.js": "/blender-webpage/static/js/main.bf18377b.chunk.js",
+    "main.js.map": "/blender-webpage/static/js/main.bf18377b.chunk.js.map",
+    "runtime-main.js": "/blender-webpage/static/js/runtime-main.6ec35e96.js",
+    "runtime-main.js.map": "/blender-webpage/static/js/runtime-main.6ec35e96.js.map",
+    "static/js/2.b7ea3e71.chunk.js": "/blender-webpage/static/js/2.b7ea3e71.chunk.js",
+    "static/js/2.b7ea3e71.chunk.js.map": "/blender-webpage/static/js/2.b7ea3e71.chunk.js.map",
+    "index.html": "/blender-webpage/index.html",
+    "static/css/main.bd76d257.chunk.css.map": "/blender-webpage/static/css/main.bd76d257.chunk.css.map",
+    "static/js/2.b7ea3e71.chunk.js.LICENSE.txt": "/blender-webpage/static/js/2.b7ea3e71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ec35e96.js",
+    "static/js/2.b7ea3e71.chunk.js",
+    "static/css/main.bd76d257.chunk.css",
+    "static/js/main.bf18377b.chunk.js"
+  ]
+}
